@@ -1,1 +1,1 @@
-print('Tidak')
+print('Ya')
